@@ -13,6 +13,9 @@
 - ```git init``` - initialize git repo in the pwd
 - ```git remote add origin <git url>``` - add remote origin from GitHub
 - ```git remote -v```  -  checks if/what remote origin is connected, for testing purposes 
+-```git status```- show commits ready to be pushed
+-```git clone```- copy a repo and keep it connected to same remote repo
+```git log``` - shows the commits that are not pushed and others; I am not sure if the definition is right
 
 # Making a git commit to GitHub:
 - ```git add .```      - stages current state of project, to be committed (git add all)
